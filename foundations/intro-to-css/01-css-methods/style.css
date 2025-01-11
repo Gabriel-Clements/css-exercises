@@ -4,11 +4,11 @@
 * `button`: an orange background and a font size of 18px
 */
 
-div [
+div {
     background-color: red;
     color: white;
     font-size: 32px;
     font-weight: bold;
     text-align: center;
 
-]
+}
