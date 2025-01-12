@@ -1,0 +1,21 @@
+
+.paragraph {
+    background-color: #fe3265;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+
+}
+
+.paragraph.special {
+    font-size: 24px;
+}
+
+#id1 {
+    color: #6accff;
+    font-size: 36px;
+}
+
+#id2 {
+    background-color: #75ff6a;
+    font-size: 24px;
+    font-weight: bold;
+}
